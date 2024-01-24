@@ -1,4 +1,4 @@
-import './CartWitget.css';
+import './CartWidget.css';
 
 const cardwitget = () => {
   return (
@@ -10,4 +10,4 @@ const cardwitget = () => {
   )
 }
 
-export default cartwitget
+export default cartwidget
